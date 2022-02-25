@@ -75,6 +75,7 @@
         android:textSize="20dp"
         android:background="@drawable/button"
         android:textStyle="bold"
+        android:textColor="#EAEAEA"
         android:paddingLeft="50dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
